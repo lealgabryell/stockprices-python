@@ -1,0 +1,1 @@
+To analyze this data directlt from Yahoo finance, I used an Anaconda3 vitual environment that I installed specific libraries: yfinance, matplotlib, pandas and jupyter. This last one isn't required but necessary to test the code in a IDE (I used VScode) and check if the code is working properly befoore adding it to the Power BI environment. 
